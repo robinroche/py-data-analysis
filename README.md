@@ -1,2 +1,2 @@
 # py-data-analysis
-Example of electricity data analysis Python code using a Jupyter Notebook
+Example of electricity data analysis Python code using a Jupyter Notebook. Feel free to use.
